@@ -1,10 +1,10 @@
 <script>
-	export let name;
+	export let name = "Jay EM";
 </script>
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<p style="red">Long Live Master{name}</p>
 </main>
 
 <style>
